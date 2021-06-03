@@ -1,4 +1,16 @@
-### Hi there 👋
+### Olá Devs ! 👋
+
+ :large_blue_diamond: Me chamo Yan Shinayder, atualmente atuo com Ciência de Dados e desenvolvimento Front-End, sempre em busca de evolução e conhecimento.
+ ### :mortar_board: Eng. de Software 
+ # Minhas Skills : 
+ ##### :white_circle: Python :white_check_mark:
+ ##### :white_circle: R :white_check_mark:
+ ##### :white_circle: JavaScript :white_check_mark:
+ ##### :white_circle: SQL :white_check_mark:
+ ##### :white_circle: AWS Cloud :white_check_mark:
+  
+ ### Entre em contato :email: shinayderepcar@outlook.com
+ ### Linkedin :mailbox: https://www.linkedin.com/in/yan-shinayder/
 
 <!--
 **yanshinayder/yanshinayder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
