@@ -1,6 +1,6 @@
 ### Olá a todos ! 👋
 
- :large_blue_diamond: Me chamo Yan Shinayder, atualmente atuo com Ciência de Dados e desenvolvimento Front-End, sempre em busca de evolução e conhecimento.
+ :large_blue_diamond: Me chamo Yan Shinayder, atualmente atuo com Python e Ciência de Dados, sempre em busca de evolução e conhecimento.
  ### :mortar_board: Eng. de Software 
  # Minhas Skills : 
  ##### :white_circle: Python :white_check_mark:
