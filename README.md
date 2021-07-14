@@ -1,4 +1,4 @@
-### Olá Devs ! 👋
+### Olá a todos ! 👋
 
  :large_blue_diamond: Me chamo Yan Shinayder, atualmente atuo com Ciência de Dados e desenvolvimento Front-End, sempre em busca de evolução e conhecimento.
  ### :mortar_board: Eng. de Software 
