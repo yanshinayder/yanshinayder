@@ -5,7 +5,10 @@
  # Minhas Skills : 
  ##### :white_circle: Python :white_check_mark:
  ##### :white_circle: R :white_check_mark:
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+ }
+.devicon-vscode-plain:before {
+  content: "\e9da";
+}
  ##### :white_circle: SQL :white_check_mark:
  ##### :white_circle: AWS Cloud :white_check_mark:
   
