@@ -5,12 +5,10 @@
  # Minhas Skills : 
  ##### :white_circle: Python :white_check_mark:
  ##### :white_circle: R :white_check_mark:
- }
-.devicon-vscode-plain:before {
-  content: "\e9da";
-}
+ ##### :white_circle: JAVASCRIPT :white_check_mark:
  ##### :white_circle: SQL :white_check_mark:
  ##### :white_circle: AWS Cloud :white_check_mark:
+ ##### :white_circle: SQL :white_check_mark:
   
  ### Entre em contato :email: shinayderepcar@outlook.com
  ### Linkedin :mailbox: https://www.linkedin.com/in/yan-shinayder/
