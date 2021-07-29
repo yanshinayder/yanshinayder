@@ -5,7 +5,7 @@
  # Minhas Skills : 
  ##### :white_circle: Python :white_check_mark:
  ##### :white_circle: R :white_check_mark:
- ##### :white_circle: JavaScript :white_check_mark:
+ ##### <i class="devicon-javascript-plain"></i>
  ##### :white_circle: SQL :white_check_mark:
  ##### :white_circle: AWS Cloud :white_check_mark:
   
