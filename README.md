@@ -8,7 +8,7 @@
  ##### :white_circle: JAVASCRIPT :white_check_mark:
  ##### :white_circle: SQL :white_check_mark:
  ##### :white_circle: AWS Cloud :white_check_mark:
- ##### :white_circle: SQL :white_check_mark:
+ 
   
  ### Entre em contato :email: shinayderepcar@outlook.com
  ### Linkedin :mailbox: https://www.linkedin.com/in/yan-shinayder/
