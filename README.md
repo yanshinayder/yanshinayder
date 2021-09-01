@@ -13,6 +13,7 @@
  ### Entre em contato :email: shinayderepcar@outlook.com
  ### Linkedin :mailbox: https://www.linkedin.com/in/yan-shinayder/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanshinayder)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
