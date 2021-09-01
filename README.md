@@ -14,6 +14,8 @@
  ### Linkedin :mailbox: https://www.linkedin.com/in/yan-shinayder/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanshinayder)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanshinayder)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
