@@ -11,13 +11,10 @@
  
   
  ### Entre em contato :email: shinayderepcar@outlook.com
- ### Linkedin :mailbox: https://www.linkedin.com/in/yan-shinayder/
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanshinayder&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yanshinayder)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 <!--
