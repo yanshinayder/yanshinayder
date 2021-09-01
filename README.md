@@ -1,3 +1,7 @@
+# Cuidado com os Buracos, estamos em reforma. :warning: :construction: :construction_worker: :hammer: 
+
+
+
 ### Olá a todos ! 👋
 
  :large_blue_diamond: Me chamo Yan Shinayder, atualmente atuo com Python e Ciência de Dados.
@@ -11,7 +15,7 @@
  
   
  ### Entre em contato :email: shinayderepcar@outlook.com
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanshinayder&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
