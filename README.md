@@ -13,7 +13,7 @@
  ### Entre em contato :email: shinayderepcar@outlook.com
  ### Linkedin :mailbox: https://www.linkedin.com/in/yan-shinayder/
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?yanshinayder=karanalpe&layout=compact)](https://github.com/yanshinayder/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/yanshinayder/github-readme-stats)
 
 
 <!--
